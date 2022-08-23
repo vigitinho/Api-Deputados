@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@300;400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oxanium', cursive;
+}
+
+body {
+  text-align: center;
+  min-height: 100vh;
+
+}
+
+main {
+  display: inline-block;
+  margin-top: 5%;
+  padding: 15px;
+  position: relative;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+  margin-left: 25%;
+}
+
+th{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+
+td {
+  border: 2px solid #000000;
+  text-align: center;
+  padding: 5px;
+}
